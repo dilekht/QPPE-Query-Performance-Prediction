@@ -12,7 +12,7 @@ AI-Assisted Query Optimization for PostgreSQL using Machine Learning.
 
 **Published in:** The VLDB Journal (Springer), 2025
 
-**Authors:** [Tahar Dilekh]
+**Authors:** Tahar Dilekh
 
 **Abstract:** QPPE is a practical machine learning system that enhances PostgreSQL's query optimizer through performance-aware cost adjustment. Using Gradient Boosting trained on balanced data with SMOTE, we achieve 86% accuracy with 80%+ precision/recall across all performance classes, demonstrating 18-29% improvements on TPC-H benchmarks.
 
