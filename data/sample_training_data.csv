@@ -1,0 +1,5 @@
+query_hash,num_joins,num_relations,join_depth,est_rows,est_cost,has_subquery,has_aggregation,actual_time,performance_class
+a1b2c3d4,3,4,2,15000,2500.5,0,1,85.2,0
+e5f6g7h8,5,6,3,50000,8500.3,1,1,650.7,1
+i9j0k1l2,2,3,1,8000,1200.8,0,0,45.8,0
+m3n4o5p6,7,8,4,120000,15000.0,1,1,1250.3,2
