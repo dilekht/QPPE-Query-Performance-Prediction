@@ -12,7 +12,7 @@ AI-Assisted Query Optimization for PostgreSQL using Machine Learning.
 
 **Published in:** The VLDB Journal (Springer), 2025
 
-**Authors:** [Your names here]
+**Authors:** [Tahar Dilekh]
 
 **Abstract:** QPPE is a practical machine learning system that enhances PostgreSQL's query optimizer through performance-aware cost adjustment. Using Gradient Boosting trained on balanced data with SMOTE, we achieve 86% accuracy with 80%+ precision/recall across all performance classes, demonstrating 18-29% improvements on TPC-H benchmarks.
 
@@ -37,7 +37,7 @@ AI-Assisted Query Optimization for PostgreSQL using Machine Learning.
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/QPPE-Query-Performance-Prediction.git
+git clone https://github.com/dilekht/QPPE-Query-Performance-Prediction.git
 cd QPPE-Query-Performance-Prediction
 ```
 
@@ -330,7 +330,7 @@ If you use QPPE in your research, please cite:
 ```bibtex
 @article{qppe2025,
   title={AI-Assisted Query Optimization in PostgreSQL: A Machine Learning Approach to Performance Prediction},
-  author={Your Names Here},
+  author={Tahar Dilekh},
   journal={The VLDB Journal},
   publisher={Springer},
   year={2025},
@@ -362,8 +362,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or issues:
-- **Email:** your.email@university.edu
-- **Issues:** [GitHub Issues](https://github.com/yourusername/QPPE/issues)
+- **Email:** tahar.dilekh@univ-batna2.dz
+- **Issues:** [GitHub Issues](https://github.com/dilekht/QPPE/issues)
 - **Paper:** [Link to paper]
 
 ## 🔗 Related Work
