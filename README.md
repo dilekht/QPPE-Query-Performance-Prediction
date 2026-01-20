@@ -448,9 +448,9 @@ If you use this implementation in your research, please cite:
 ```bibtex
 @software{qppe2025,
   title={QPPE: Query Performance Prediction Engine for PostgreSQL},
-  author={Your Name},
+  author={Tahar Dilekh},
   year={2025},
-  url={https://github.com/yourusername/qppe}
+  url={https://github.com/dilekht/QPPE-Query-Performance-Prediction}
 }
 ```
 
