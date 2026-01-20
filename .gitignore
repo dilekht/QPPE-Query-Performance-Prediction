@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+qppe_env/
+
+# Model files
+*.pkl
+qppe_model*.pkl
+
+# Log files
+*.log
+qppe_service.log
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated figures (optional - uncomment if you don't want to track)
+# figures/*.png
+
+# Database dumps
+*.sql.backup
+*.dump
+
+# Temporary files
+*.tmp
+*.temp
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/

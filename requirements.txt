@@ -1,0 +1,17 @@
+# QPPE - Query Performance Prediction Engine
+# Python Dependencies
+
+# Database connectivity
+psycopg2-binary>=2.9.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+imbalanced-learn>=0.9.0
+
+# Numerical computing
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
